@@ -6,7 +6,7 @@
  HelloWorld App is a Pre-Work project for CodePath.org's Intro to Mobile Product Development course. In this app users can change the original text to a custom text. They can change the background color of app, change the text color, and can reset all view settings to default settings.
 
 ### App Walk-though
-<img src="https://media3.giphy.com/media/ZgUUKIQBiV005rFCV6/giphy.gif?cid=790b7611330749e29fafa7199173479ea5c51a0a6a404bf7&rid=giphy.gif&ct=g" width=200><br>
+<img src="https://media4.giphy.com/media/xVLu7kM6xBSbCqd8l6/giphy.gif?cid=790b761133a5b1229020cdf4f0c87a2ce75f253de2669514&rid=giphy.gif&ct=g" width=200><br>
 
 
 ### Required User Stories
